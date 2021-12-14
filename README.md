@@ -5,3 +5,12 @@
 
 ## Description
 Project with intention of help with Data Access Object.
+
+## Estrutura de comandos
+* `connect`
+* `disconnect`
+* `query`
+* `queryRow`
+* `startTransaction`
+* `commit`
+* `rollback`
